@@ -1,0 +1,6 @@
+{
+  "name": "Sabr",
+  "description": "Real device-level adult-content web protection using native Android VpnService, high-performance DNS filtering, and a resilient 24-hour unblock cooldown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

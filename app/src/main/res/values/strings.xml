@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sabr</string>
+    <string name="sabr_arabic">صبر</string>
+    <string name="app_tagline">Patience &amp; Digital Protection</string>
+    <string name="protection_off">Protection is Inactive</string>
+    <string name="protection_active">Protection is Active</string>
+    <string name="block_adult_websites">Block Adult Websites</string>
+    <string name="request_unblock">Request Unblock</string>
+    <string name="unblock_requested">Unblock Requested</string>
+    <string name="stage_running">Stage %1$d of 24 in Progress</string>
+    <string name="stage_complete">Stage %1$d of 24 Completed</string>
+    <string name="unblock_available">Unblock Available</string>
+    <string name="vpn_permission_explanation">Sabr uses Android\'s native VpnService to intercept and filter DNS requests directly on your device. No traffic is proxied through external servers or sold. Your privacy is 100% safeguarded.</string>
+</resources>
